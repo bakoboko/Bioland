@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 41cbb8b856d5cfb439d64f1d87da1ca1
+timeCreated: 1523551753
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: rat_HIGHPOLY:Group38452_MeshPart0
+    100004: rat_HIGHPOLY:Group38452_MeshPart1
+    100006: rat_HIGHPOLY:Group38452_MeshPart10
+    100008: rat_HIGHPOLY:Group38452_MeshPart11
+    100010: rat_HIGHPOLY:Group38452_MeshPart12
+    100012: rat_HIGHPOLY:Group38452_MeshPart13
+    100014: rat_HIGHPOLY:Group38452_MeshPart14
+    100016: rat_HIGHPOLY:Group38452_MeshPart15
+    100018: rat_HIGHPOLY:Group38452_MeshPart16
+    100020: rat_HIGHPOLY:Group38452_MeshPart17
+    100022: rat_HIGHPOLY:Group38452_MeshPart2
+    100024: rat_HIGHPOLY:Group38452_MeshPart3
+    100026: rat_HIGHPOLY:Group38452_MeshPart4
+    100028: rat_HIGHPOLY:Group38452_MeshPart5
+    100030: rat_HIGHPOLY:Group38452_MeshPart6
+    100032: rat_HIGHPOLY:Group38452_MeshPart7
+    100034: rat_HIGHPOLY:Group38452_MeshPart8
+    100036: rat_HIGHPOLY:Group38452_MeshPart9
+    400000: //RootNode
+    400002: rat_HIGHPOLY:Group38452_MeshPart0
+    400004: rat_HIGHPOLY:Group38452_MeshPart1
+    400006: rat_HIGHPOLY:Group38452_MeshPart10
+    400008: rat_HIGHPOLY:Group38452_MeshPart11
+    400010: rat_HIGHPOLY:Group38452_MeshPart12
+    400012: rat_HIGHPOLY:Group38452_MeshPart13
+    400014: rat_HIGHPOLY:Group38452_MeshPart14
+    400016: rat_HIGHPOLY:Group38452_MeshPart15
+    400018: rat_HIGHPOLY:Group38452_MeshPart16
+    400020: rat_HIGHPOLY:Group38452_MeshPart17
+    400022: rat_HIGHPOLY:Group38452_MeshPart2
+    400024: rat_HIGHPOLY:Group38452_MeshPart3
+    400026: rat_HIGHPOLY:Group38452_MeshPart4
+    400028: rat_HIGHPOLY:Group38452_MeshPart5
+    400030: rat_HIGHPOLY:Group38452_MeshPart6
+    400032: rat_HIGHPOLY:Group38452_MeshPart7
+    400034: rat_HIGHPOLY:Group38452_MeshPart8
+    400036: rat_HIGHPOLY:Group38452_MeshPart9
+    2300000: rat_HIGHPOLY:Group38452_MeshPart0
+    2300002: rat_HIGHPOLY:Group38452_MeshPart1
+    2300004: rat_HIGHPOLY:Group38452_MeshPart10
+    2300006: rat_HIGHPOLY:Group38452_MeshPart11
+    2300008: rat_HIGHPOLY:Group38452_MeshPart12
+    2300010: rat_HIGHPOLY:Group38452_MeshPart13
+    2300012: rat_HIGHPOLY:Group38452_MeshPart14
+    2300014: rat_HIGHPOLY:Group38452_MeshPart15
+    2300016: rat_HIGHPOLY:Group38452_MeshPart16
+    2300018: rat_HIGHPOLY:Group38452_MeshPart17
+    2300020: rat_HIGHPOLY:Group38452_MeshPart2
+    2300022: rat_HIGHPOLY:Group38452_MeshPart3
+    2300024: rat_HIGHPOLY:Group38452_MeshPart4
+    2300026: rat_HIGHPOLY:Group38452_MeshPart5
+    2300028: rat_HIGHPOLY:Group38452_MeshPart6
+    2300030: rat_HIGHPOLY:Group38452_MeshPart7
+    2300032: rat_HIGHPOLY:Group38452_MeshPart8
+    2300034: rat_HIGHPOLY:Group38452_MeshPart9
+    3300000: rat_HIGHPOLY:Group38452_MeshPart0
+    3300002: rat_HIGHPOLY:Group38452_MeshPart1
+    3300004: rat_HIGHPOLY:Group38452_MeshPart10
+    3300006: rat_HIGHPOLY:Group38452_MeshPart11
+    3300008: rat_HIGHPOLY:Group38452_MeshPart12
+    3300010: rat_HIGHPOLY:Group38452_MeshPart13
+    3300012: rat_HIGHPOLY:Group38452_MeshPart14
+    3300014: rat_HIGHPOLY:Group38452_MeshPart15
+    3300016: rat_HIGHPOLY:Group38452_MeshPart16
+    3300018: rat_HIGHPOLY:Group38452_MeshPart17
+    3300020: rat_HIGHPOLY:Group38452_MeshPart2
+    3300022: rat_HIGHPOLY:Group38452_MeshPart3
+    3300024: rat_HIGHPOLY:Group38452_MeshPart4
+    3300026: rat_HIGHPOLY:Group38452_MeshPart5
+    3300028: rat_HIGHPOLY:Group38452_MeshPart6
+    3300030: rat_HIGHPOLY:Group38452_MeshPart7
+    3300032: rat_HIGHPOLY:Group38452_MeshPart8
+    3300034: rat_HIGHPOLY:Group38452_MeshPart9
+    4300000: rat_HIGHPOLY:Group38452_MeshPart0
+    4300002: rat_HIGHPOLY:Group38452_MeshPart1
+    4300004: rat_HIGHPOLY:Group38452_MeshPart2
+    4300006: rat_HIGHPOLY:Group38452_MeshPart3
+    4300008: rat_HIGHPOLY:Group38452_MeshPart4
+    4300010: rat_HIGHPOLY:Group38452_MeshPart5
+    4300012: rat_HIGHPOLY:Group38452_MeshPart6
+    4300014: rat_HIGHPOLY:Group38452_MeshPart7
+    4300016: rat_HIGHPOLY:Group38452_MeshPart8
+    4300018: rat_HIGHPOLY:Group38452_MeshPart9
+    4300020: rat_HIGHPOLY:Group38452_MeshPart10
+    4300022: rat_HIGHPOLY:Group38452_MeshPart11
+    4300024: rat_HIGHPOLY:Group38452_MeshPart12
+    4300026: rat_HIGHPOLY:Group38452_MeshPart13
+    4300028: rat_HIGHPOLY:Group38452_MeshPart14
+    4300030: rat_HIGHPOLY:Group38452_MeshPart15
+    4300032: rat_HIGHPOLY:Group38452_MeshPart16
+    4300034: rat_HIGHPOLY:Group38452_MeshPart17
+    6400000: rat_HIGHPOLY:Group38452_MeshPart0
+    6400002: rat_HIGHPOLY:Group38452_MeshPart1
+    6400004: rat_HIGHPOLY:Group38452_MeshPart10
+    6400006: rat_HIGHPOLY:Group38452_MeshPart11
+    6400008: rat_HIGHPOLY:Group38452_MeshPart12
+    6400010: rat_HIGHPOLY:Group38452_MeshPart13
+    6400012: rat_HIGHPOLY:Group38452_MeshPart14
+    6400014: rat_HIGHPOLY:Group38452_MeshPart15
+    6400016: rat_HIGHPOLY:Group38452_MeshPart16
+    6400018: rat_HIGHPOLY:Group38452_MeshPart17
+    6400020: rat_HIGHPOLY:Group38452_MeshPart2
+    6400022: rat_HIGHPOLY:Group38452_MeshPart3
+    6400024: rat_HIGHPOLY:Group38452_MeshPart4
+    6400026: rat_HIGHPOLY:Group38452_MeshPart5
+    6400028: rat_HIGHPOLY:Group38452_MeshPart6
+    6400030: rat_HIGHPOLY:Group38452_MeshPart7
+    6400032: rat_HIGHPOLY:Group38452_MeshPart8
+    6400034: rat_HIGHPOLY:Group38452_MeshPart9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 1
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
